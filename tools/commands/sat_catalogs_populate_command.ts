@@ -67,6 +67,8 @@ export default class SatCatalogsPopulateCommand extends BaseCommand {
     const applyPrettier = this.logger.action('Apply formatter using prettier');
     await execAsync(`pnpm prettier --write ${jsonPath}`);
     applyPrettier.displayDuration().succeeded();
+
+    await clean(tmpPath);
   }
 
   private async populateCatalogsDb(catalogsDbPath: string, jsonPath: string): Promise<void> {
