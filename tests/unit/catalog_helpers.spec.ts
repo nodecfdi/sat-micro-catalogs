@@ -1,5 +1,5 @@
 import { wrapCatalog } from '../../src/helpers.js';
-import cfdi40UsosCfdi from '../../src/raw/cfdi_40_usos_cfdi.json' assert { type: 'json' };
+import cfdi40UsosCfdi from '../../stubs/raw/cfdi_40_usos_cfdi.json' assert { type: 'json' };
 
 describe('catalog helpers', () => {
   test('should wrap catalog', () => {

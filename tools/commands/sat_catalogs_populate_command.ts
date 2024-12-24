@@ -109,21 +109,19 @@ export default class SatCatalogsPopulateCommand extends BaseCommand {
 
   private getPathsAndCleanFn(): {
     rootPath: string;
-    srcPath: string;
     jsonPath: string;
     tmpPath: string;
     // eslint-disable-next-line @typescript-eslint/method-signature-style
     clean: (targetPath: string) => Promise<void>;
   } {
     const rootPath = path.join(getDirname(import.meta.url), '..', '..');
-    const srcPath = path.join(rootPath, 'src');
-    const jsonPath = path.join(srcPath, 'raw');
+    const jsonPath = path.join(rootPath, 'stubs', 'raw');
     const tmpPath = path.join(rootPath, 'tmp');
 
     const clean = async (targetPath: string) => {
       await deleteAsync(targetPath);
     };
 
-    return { rootPath, srcPath, jsonPath, tmpPath, clean };
+    return { rootPath, jsonPath, tmpPath, clean };
   }
 }
