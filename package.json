@@ -3,11 +3,25 @@
   "description": "Micro Catálogos CFDI del SAT",
   "version": "0.0.0",
   "type": "module",
-  "module": "",
-  "types": "",
+  "module": "./build/helpers.js",
+  "types": "./build/helpers.d.ts",
   "files": [
     "build"
   ],
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./build/helpers.d.ts",
+        "default": "./build/helpers.js"
+      }
+    },
+    "./types": {
+      "import": {
+        "types": "./build/types.d.ts",
+        "default": "./build/types.js"
+      }
+    }
+  },
   "scripts": {
     "prepare": "is-in-ci || husky",
     "typecheck": "tsc --noEmit",
@@ -101,7 +115,11 @@
     "testScript": "test:run"
   },
   "tsup": {
-    "entry": [],
+    "entry": [
+      "./src/helpers.ts",
+      "./src/types.ts"
+    ],
+    "publicDir": "./stubs",
     "outDir": "./build",
     "clean": false,
     "format": "esm",
