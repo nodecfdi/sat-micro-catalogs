@@ -1,0 +1,211 @@
+[
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.000000",
+    "impuesto": "IVA",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": "",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.160000",
+    "impuesto": "IVA",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": "",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Rango",
+    "minimo": "0.000000",
+    "valor": "0.160000",
+    "impuesto": "IVA",
+    "factor": "Tasa",
+    "traslado": "",
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.080000",
+    "impuesto": "IVA Crédito aplicado del 50%",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": "",
+    "vigencia_desde": "2019-01-07",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.265000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.300000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.530000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.500000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "1.600000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.304000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.250000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.090000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.080000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.070000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.060000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.030000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": "",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Fijo",
+    "minimo": "",
+    "valor": "0.000000",
+    "impuesto": "IEPS",
+    "factor": "Tasa",
+    "traslado": 1,
+    "retencion": "",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Rango",
+    "minimo": "0.000000",
+    "valor": "59.144900",
+    "impuesto": "IEPS",
+    "factor": "Cuota",
+    "traslado": 1,
+    "retencion": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "tipo": "Rango",
+    "minimo": "0.000000",
+    "valor": "0.350000",
+    "impuesto": "ISR",
+    "factor": "Tasa",
+    "traslado": "",
+    "retencion": 1,
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  }
+]

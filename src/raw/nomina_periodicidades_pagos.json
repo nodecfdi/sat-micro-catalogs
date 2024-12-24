@@ -1,0 +1,13 @@
+[
+  { "id": "01", "texto": "Diario", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Semanal", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Catorcenal", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Quincenal", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "05", "texto": "Mensual", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "06", "texto": "Bimestral", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "07", "texto": "Unidad obra", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "08", "texto": "Comisión", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "09", "texto": "Precio alzado", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "10", "texto": "Decenal", "vigencia_desde": "2017-01-19", "vigencia_hasta": "" },
+  { "id": "99", "texto": "Otra Periodicidad", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "texto": "Pago definitivo IVA",
+    "tipo_impuesto": "002",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "02",
+    "texto": "Pago definitivo IEPS",
+    "tipo_impuesto": "003",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "03",
+    "texto": "Pago definitivo ISR",
+    "tipo_impuesto": "001",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "04",
+    "texto": "Pago provisional ISR",
+    "tipo_impuesto": "001",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  }
+]

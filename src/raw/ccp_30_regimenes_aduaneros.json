@@ -1,0 +1,72 @@
+[
+  {
+    "id": "IMD",
+    "texto": "Definitivo de importación.",
+    "impoexpo": "Entrada",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "EXD",
+    "texto": "Definitivo de exportación.",
+    "impoexpo": "Salida",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "ITR",
+    "texto": "Temporales de importación para retomar al extranjero en el mismo estado.",
+    "impoexpo": "Entrada",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "ITE",
+    "texto": "Temporales de importación para elaboración, transformación o reparación para empresas con programa IMMEX.",
+    "impoexpo": "Entrada",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "ETR",
+    "texto": "Temporales de exportación para retornar al país en el mismo estado.",
+    "impoexpo": "Salida",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "ETE",
+    "texto": "Temporales de exportación para elaboración, transformación o reparación.",
+    "impoexpo": "Salida",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "DFI",
+    "texto": "Depósito Fiscal.",
+    "impoexpo": "Salida,Entrada",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "RFE",
+    "texto": "Elaboración, transformación o reparación en recinto fiscalizado.",
+    "impoexpo": "Salida,Entrada",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "RFS",
+    "texto": "Recinto fiscalizado estratégico.",
+    "impoexpo": "Salida,Entrada",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "TRA",
+    "texto": "Tránsitos.",
+    "impoexpo": "Salida,Entrada",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  }
+]

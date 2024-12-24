@@ -1,0 +1,17 @@
+[
+  { "id": "01", "texto": "Materia prima", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Materia procesada", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  {
+    "id": "03",
+    "texto": "Materia terminada (producto terminado)",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "04",
+    "texto": "Materia para la industria manufacturera",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  { "id": "05", "texto": "Otra", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" }
+]

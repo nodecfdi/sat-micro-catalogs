@@ -1,0 +1,14 @@
+[
+  { "id": "01", "texto": "Enero", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Febrero", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Marzo", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Abril", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "05", "texto": "Mayo", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "06", "texto": "Junio", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "07", "texto": "Julio", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "08", "texto": "Agosto", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "09", "texto": "Septiembre", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "10", "texto": "Octubre", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "11", "texto": "Noviembre", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "12", "texto": "Diciembre", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" }
+]

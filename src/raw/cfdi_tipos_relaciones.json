@@ -1,0 +1,46 @@
+[
+  {
+    "id": "01",
+    "texto": "Nota de crédito de los documentos relacionados",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "02",
+    "texto": "Nota de débito de los documentos relacionados",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "03",
+    "texto": "Devolución de mercancía sobre facturas o traslados previos",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "04", "texto": "Sustitución de los CFDI previos", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  {
+    "id": "05",
+    "texto": "Traslados de mercancias facturados previamente",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "06",
+    "texto": "Factura generada por los traslados previos",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "07", "texto": "CFDI por aplicación de anticipo", "vigencia_desde": "2017-08-13", "vigencia_hasta": "" },
+  {
+    "id": "08",
+    "texto": "Factura generada por pagos en parcialidades",
+    "vigencia_desde": "2017-12-05",
+    "vigencia_hasta": "2022-06-30"
+  },
+  {
+    "id": "09",
+    "texto": "Factura generada por pagos diferidos",
+    "vigencia_desde": "2017-12-05",
+    "vigencia_hasta": "2022-06-30"
+  }
+]

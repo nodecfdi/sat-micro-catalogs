@@ -1,0 +1,5 @@
+[
+  { "id": "IP", "texto": "Ingresos propios." },
+  { "id": "IF", "texto": "Ingreso federales." },
+  { "id": "IM", "texto": "Ingresos mixtos." }
+]

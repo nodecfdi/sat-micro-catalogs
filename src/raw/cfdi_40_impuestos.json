@@ -1,0 +1,29 @@
+[
+  {
+    "id": "001",
+    "texto": "ISR",
+    "retencion": 1,
+    "traslado": "",
+    "ambito": "Federal",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "002",
+    "texto": "IVA",
+    "retencion": 1,
+    "traslado": 1,
+    "ambito": "Federal",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "003",
+    "texto": "IEPS",
+    "retencion": 1,
+    "traslado": 1,
+    "ambito": "Federal",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  }
+]

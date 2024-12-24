@@ -1,0 +1,8 @@
+[
+  { "id": "01", "texto": "Coatzacoalcos I", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Coatzacoalcos II", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Texistepec", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "04", "texto": "San Juan Evangelista", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "05", "texto": "Salina Cruz", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "06", "texto": "San Blas Atempa", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" }
+]

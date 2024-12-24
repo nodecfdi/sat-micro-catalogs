@@ -1,0 +1,5 @@
+[
+  { "id": "Tasa", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "Cuota", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "Exento", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" }
+]

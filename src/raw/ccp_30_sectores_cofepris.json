@@ -1,0 +1,7 @@
+[
+  { "id": "01", "texto": "Medicamento", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Precursores y químicos de uso dual", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Psicotrópicos y estupefacientes", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Sustancias tóxicas", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "05", "texto": "Plaguicidas y fertilizantes", "vigencia_desde": "", "vigencia_hasta": "" }
+]

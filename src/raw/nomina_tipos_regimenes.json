@@ -1,0 +1,30 @@
+[
+  {
+    "id": "02",
+    "texto": "Sueldos (Incluye ingresos señalados en la fracción I del artículo 94 de LISR)",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "03", "texto": "Jubilados", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Pensionados", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  {
+    "id": "05",
+    "texto": "Asimilados Miembros Sociedades Cooperativas Produccion",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "06",
+    "texto": "Asimilados Integrantes Sociedades Asociaciones Civiles",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "07", "texto": "Asimilados Miembros consejos", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "08", "texto": "Asimilados comisionistas", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "09", "texto": "Asimilados Honorarios", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "10", "texto": "Asimilados acciones", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "11", "texto": "Asimilados otros", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "12", "texto": "Jubilados o Pensionados", "vigencia_desde": "2017-03-27", "vigencia_hasta": "" },
+  { "id": "13", "texto": "Indemnización o Separación", "vigencia_desde": "2018-10-15", "vigencia_hasta": "" },
+  { "id": "99", "texto": "Otro Regimen", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" }
+]

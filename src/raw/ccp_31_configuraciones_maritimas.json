@@ -1,0 +1,17 @@
+[
+  { "id": "B01", "texto": "Abastecedor", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B02", "texto": "Barcaza", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B03", "texto": "Granelero", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B04", "texto": "Porta Contenedor", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B05", "texto": "Draga", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B06", "texto": "Pesquero", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B07", "texto": "Carga General", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B08", "texto": "Quimiqueros", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B09", "texto": "Transbordadores", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B10", "texto": "Carga RoRo", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B11", "texto": "Investigación", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B12", "texto": "Tanquero", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B13", "texto": "Gasero", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B14", "texto": "Remolcador", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "B15", "texto": "Extraordinaria especialización", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" }
+]

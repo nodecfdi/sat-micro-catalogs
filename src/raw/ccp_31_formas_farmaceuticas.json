@@ -1,0 +1,22 @@
+[
+  { "id": "01", "texto": "Tableta", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Capsulas", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Comprimidos", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Grageas", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "05", "texto": "Suspensión", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "06", "texto": "Solución", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "07", "texto": "Emulsión", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "08", "texto": "Jarabe", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "09", "texto": "Inyectable", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "10", "texto": "Crema", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "11", "texto": "Ungüento", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "12", "texto": "Aerosol", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "13", "texto": "Gas medicinal", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "14", "texto": "Gel", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "15", "texto": "Implante", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "16", "texto": "Óvulo", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "17", "texto": "Parche", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "18", "texto": "Pasta", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "19", "texto": "Polvo", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "20", "texto": "Supositorio", "vigencia_desde": "", "vigencia_hasta": "" }
+]

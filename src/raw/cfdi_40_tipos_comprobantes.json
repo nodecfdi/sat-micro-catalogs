@@ -1,0 +1,31 @@
+[
+  {
+    "id": "I",
+    "texto": "Ingreso",
+    "valor_maximo": "999999999999999999.999999",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "E",
+    "texto": "Egreso",
+    "valor_maximo": "999999999999999999.999999",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "T", "texto": "Traslado", "valor_maximo": "0", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "N",
+    "texto": "Nómina",
+    "valor_maximo": "999999999999999999.999999",
+    "vigencia_desde": "",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "P",
+    "texto": "Pago",
+    "valor_maximo": "999999999999999999.999999",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  }
+]

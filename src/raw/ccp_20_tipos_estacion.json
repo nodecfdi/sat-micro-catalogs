@@ -1,0 +1,23 @@
+[
+  {
+    "id": "01",
+    "texto": "Origen Nacional",
+    "claves_transportes": "02, 03 y 04",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "02",
+    "texto": "Intermedia",
+    "claves_transportes": "02, 03 y 04",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "03",
+    "texto": "Destino Final Nacional",
+    "claves_transportes": "02, 03 y 04",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  }
+]

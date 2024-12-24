@@ -1,0 +1,13 @@
+[
+  { "id": "01", "texto": "Contrato de trabajo por tiempo indeterminado" },
+  { "id": "02", "texto": "Contrato de trabajo para obra determinada" },
+  { "id": "03", "texto": "Contrato de trabajo por tiempo determinado" },
+  { "id": "04", "texto": "Contrato de trabajo por temporada" },
+  { "id": "05", "texto": "Contrato de trabajo sujeto a prueba" },
+  { "id": "06", "texto": "Contrato de trabajo con capacitación inicial" },
+  { "id": "07", "texto": "Modalidad de contratación por pago de hora laborada" },
+  { "id": "08", "texto": "Modalidad de trabajo por comisión laboral" },
+  { "id": "09", "texto": "Modalidades de contratación donde no existe relación de trabajo" },
+  { "id": "10", "texto": "Jubilación, pensión, retiro." },
+  { "id": "99", "texto": "Otro contrato" }
+]

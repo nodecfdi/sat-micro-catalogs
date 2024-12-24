@@ -1,0 +1,14 @@
+[
+  { "id": "PT01", "texto": "Camión unitario", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT02", "texto": "Camión", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT03", "texto": "Tractocamión", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT04", "texto": "Remolque", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT05", "texto": "Semirremolque", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT06", "texto": "Vehículo ligero de carga", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT07", "texto": "Grúa", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT08", "texto": "Aeronave", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT09", "texto": "Barco o buque", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT10", "texto": "Carro o vagón", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT11", "texto": "Contenedor", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "PT12", "texto": "Locomotora", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" }
+]

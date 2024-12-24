@@ -1,0 +1,7 @@
+[
+  { "id": "01", "texto": "Operador", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Propietario", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Arrendador", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Notificado", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "05", "texto": "Integrante de Coordinados", "vigencia_desde": "2024-07-26", "vigencia_hasta": "" }
+]

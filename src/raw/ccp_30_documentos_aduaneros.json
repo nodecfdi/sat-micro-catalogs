@@ -1,0 +1,77 @@
+[
+  { "id": "01", "texto": "Pedimento", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Autorización de importación temporal", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  {
+    "id": "03",
+    "texto": "Autorización de importación temporal de embarcaciones",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "04",
+    "texto": "Autorización de importación temporal de mercancías, destinadas al mantenimiento y reparación de las mercancías importadas temporalmente",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "05",
+    "texto": "Autorización para la importación de vehículos especialmente construidos o transformados, equipados con dispositivos o aparatos diversos para cumplir con contrato derivado de licitación pública",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  { "id": "06", "texto": "Aviso de exportación temporal", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  {
+    "id": "07",
+    "texto": "Aviso de traslado de mercancías de empresas con Programa IMMEX, RFE u Operador Económico Autorizado",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "08",
+    "texto": "Aviso para el traslado de autopartes ubicadas en la franja o región fronteriza a la industria terminal automotriz o manufacturera de vehículos de autotransporte en el resto del territorio nacional",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "09",
+    "texto": "Constancia de importación temporal, retorno o transferencia de contenedores",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "10",
+    "texto": "Constancia de transferencia de mercancías",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "11",
+    "texto": "Autorización de donación de mercancías al Fisco Federal que se encuentren en el extranjero",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  { "id": "12", "texto": "Cuaderno ATA", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "13", "texto": "Listas de intercambio", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "14", "texto": "Permiso de Importación Temporal", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  {
+    "id": "15",
+    "texto": "Permiso de importación temporal de casa rodante",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "16",
+    "texto": "Permiso de importación temporal de embarcaciones",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "17",
+    "texto": "Solicitud de donación de mercancías en casos de emergencias o desastres naturales",
+    "vigencia_desde": "2023-11-25",
+    "vigencia_hasta": ""
+  },
+  { "id": "18", "texto": "Aviso de consolidado", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "19", "texto": "Aviso de cruce de mercancias", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "20", "texto": "Otro", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" }
+]

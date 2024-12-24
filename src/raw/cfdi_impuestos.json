@@ -1,0 +1,5 @@
+[
+  { "id": "001", "texto": "ISR", "retencion": 1, "traslado": "", "ambito": "Federal", "entidad": "" },
+  { "id": "002", "texto": "IVA", "retencion": 1, "traslado": 1, "ambito": "Federal", "entidad": "" },
+  { "id": "003", "texto": "IEPS", "retencion": 1, "traslado": 1, "ambito": "Federal", "entidad": "" }
+]

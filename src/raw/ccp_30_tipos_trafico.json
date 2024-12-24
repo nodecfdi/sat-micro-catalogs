@@ -1,0 +1,6 @@
+[
+  { "id": "TT01", "texto": "Tráfico local", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "TT02", "texto": "Tráfico interlineal remitido", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "TT03", "texto": "Tráfico interlineal recibido", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "TT04", "texto": "Tráfico interlineal en tránsito", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" }
+]

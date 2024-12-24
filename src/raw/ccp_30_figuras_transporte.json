@@ -1,0 +1,6 @@
+[
+  { "id": "01", "texto": "Operador", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Propietario", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Arrendador", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Notificado", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" }
+]

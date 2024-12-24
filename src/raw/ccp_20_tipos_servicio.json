@@ -1,0 +1,30 @@
+[
+  {
+    "id": "TS01",
+    "texto": "Carros Ferroviarios",
+    "contenedor": "0",
+    "vigencia_desde": "2021-12-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "TS02",
+    "texto": "Carros Ferroviarios intermodal",
+    "contenedor": "1",
+    "vigencia_desde": "2021-12-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "TS03",
+    "texto": "Tren unitario de carros ferroviarios",
+    "contenedor": "0",
+    "vigencia_desde": "2021-12-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "TS04",
+    "texto": "Tren unitario Intermodal",
+    "contenedor": "1",
+    "vigencia_desde": "2021-12-01",
+    "vigencia_hasta": ""
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CFR",
+    "texto": "COSTE Y FLETE (PUERTO DE DESTINO CONVENIDO).",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "CIF",
+    "texto": "COSTE, SEGURO Y FLETE (PUERTO DE DESTINO CONVENIDO).",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "CPT",
+    "texto": "TRANSPORTE PAGADO HASTA (EL LUGAR DE DESTINO CONVENIDO).",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "CIP",
+    "texto": "TRANSPORTE Y SEGURO PAGADOS HASTA (LUGAR DE DESTINO CONVENIDO).",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
+  { "id": "DAP", "texto": "ENTREGADA EN LUGAR.", "vigencia_desde": "2024-01-18", "vigencia_hasta": "" },
+  {
+    "id": "DDP",
+    "texto": "ENTREGADA DERECHOS PAGADOS (LUGAR DE DESTINO CONVENIDO).",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "DPU",
+    "texto": "ENTREGADA Y DESCARGADA EN LUGAR ACORDADO.",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
+  { "id": "EXW", "texto": "EN FABRICA (LUGAR CONVENIDO).", "vigencia_desde": "2024-01-18", "vigencia_hasta": "" },
+  {
+    "id": "FCA",
+    "texto": "FRANCO TRANSPORTISTA (LUGAR DESIGNADO).",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "FAS",
+    "texto": "FRANCO AL COSTADO DEL BUQUE (PUERTO DE CARGA CONVENIDO).",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "FOB",
+    "texto": "FRANCO A BORDO (PUERTO DE CARGA CONVENIDO).",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  }
+]

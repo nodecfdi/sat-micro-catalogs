@@ -1,0 +1,106 @@
+[
+  { "id": "001", "texto": "Sueldos, Salarios  Rayas y Jornales", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "002", "texto": "Gratificación Anual (Aguinaldo)", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  {
+    "id": "003",
+    "texto": "Participación de los Trabajadores en las Utilidades PTU",
+    "vigencia_desde": "2016-11-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "004",
+    "texto": "Reembolso de Gastos Médicos Dentales y Hospitalarios",
+    "vigencia_desde": "2016-11-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "005", "texto": "Fondo de Ahorro", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "006", "texto": "Caja de ahorro", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  {
+    "id": "009",
+    "texto": "Contribuciones a Cargo del Trabajador Pagadas por el Patrón",
+    "vigencia_desde": "2016-11-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "010", "texto": "Premios por puntualidad", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "011", "texto": "Prima de Seguro de vida", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "012", "texto": "Seguro de Gastos Médicos Mayores", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  {
+    "id": "013",
+    "texto": "Cuotas Sindicales Pagadas por el Patrón",
+    "vigencia_desde": "2016-11-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "014", "texto": "Subsidios por incapacidad", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "015", "texto": "Becas para trabajadores y/o hijos", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "019", "texto": "Horas extra", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "020", "texto": "Prima dominical", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "021", "texto": "Prima vacacional", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "022", "texto": "Prima por antigüedad", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "023", "texto": "Pagos por separación", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "024", "texto": "Seguro de retiro", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "025", "texto": "Indemnizaciones", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "026", "texto": "Reembolso por funeral", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  {
+    "id": "027",
+    "texto": "Cuotas de seguridad social pagadas por el patrón",
+    "vigencia_desde": "2016-11-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "028", "texto": "Comisiones", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "029", "texto": "Vales de despensa", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "030", "texto": "Vales de restaurante", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "031", "texto": "Vales de gasolina", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "032", "texto": "Vales de ropa", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "033", "texto": "Ayuda para renta", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "034", "texto": "Ayuda para artículos escolares", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "035", "texto": "Ayuda para anteojos", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "036", "texto": "Ayuda para transporte", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "037", "texto": "Ayuda para gastos de funeral", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "038", "texto": "Otros ingresos por salarios", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  {
+    "id": "039",
+    "texto": "Jubilaciones, pensiones o haberes de retiro",
+    "vigencia_desde": "2016-11-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "044",
+    "texto": "Jubilaciones, pensiones o haberes de retiro en parcialidades",
+    "vigencia_desde": "2016-11-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "045",
+    "texto": "Ingresos en acciones o títulos valor que representan bienes",
+    "vigencia_desde": "2016-11-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "046", "texto": "Ingresos asimilados a salarios", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  {
+    "id": "047",
+    "texto": "Alimentación diferentes a los establecidos en el Art 94 último párrafo LISR",
+    "vigencia_desde": "2016-11-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "048", "texto": "Habitación", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "049", "texto": "Premios por asistencia", "vigencia_desde": "2016-11-01", "vigencia_hasta": "" },
+  { "id": "050", "texto": "Viáticos", "vigencia_desde": "2017-01-06", "vigencia_hasta": "" },
+  {
+    "id": "051",
+    "texto": "Pagos por gratificaciones, primas, compensaciones, recompensas u otros a extrabajadores derivados de jubilación en parcialidades",
+    "vigencia_desde": "2018-10-15",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "052",
+    "texto": "Pagos que se realicen a extrabajadores que obtengan una jubilación en parcialidades derivados de la ejecución de resoluciones judicial o de un laudo",
+    "vigencia_desde": "2018-10-15",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "053",
+    "texto": "Pagos que se realicen a extrabajadores que obtengan una jubilación en una sola exhibición derivados de la ejecución de resoluciones judicial o de un laudo",
+    "vigencia_desde": "2018-10-15",
+    "vigencia_hasta": ""
+  }
+]

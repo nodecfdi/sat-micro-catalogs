@@ -1,0 +1,11 @@
+[
+  { "id": "01", "texto": "Diurna" },
+  { "id": "02", "texto": "Nocturna" },
+  { "id": "03", "texto": "Mixta" },
+  { "id": "04", "texto": "Por hora" },
+  { "id": "05", "texto": "Reducida" },
+  { "id": "06", "texto": "Continuada" },
+  { "id": "07", "texto": "Partida" },
+  { "id": "08", "texto": "Por turnos" },
+  { "id": "99", "texto": "Otra Jornada" }
+]

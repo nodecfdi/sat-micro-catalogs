@@ -1,0 +1,8 @@
+[
+  { "id": "01", "texto": "Envío de mercancias facturadas con anterioridad" },
+  { "id": "02", "texto": "Reubicación de mercancías propias" },
+  { "id": "03", "texto": "Envío de mercancías objeto de contrato de consignación" },
+  { "id": "04", "texto": "Envío de mercancías para posterior enajenación" },
+  { "id": "05", "texto": "Envío de mercancías propiedad de terceros" },
+  { "id": "99", "texto": "Otros" }
+]

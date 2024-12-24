@@ -1,0 +1,14 @@
+[
+  { "id": "CM001", "texto": "Contenedores refrigerados de 20FT", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM002", "texto": "Contenedores refrigerados de 40FT", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM003", "texto": "Contenedores estándar de 8FT", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM004", "texto": "Contenedores estándar de 10FT", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM005", "texto": "Contenedores estándar de 20FT", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM006", "texto": "Contenedores estándar de 40FT", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM007", "texto": "Contenedores Open Side", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM008", "texto": "Contenedor Isotanque", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM009", "texto": "Contenedor flat racks", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM010", "texto": "Buque tanque", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM011", "texto": "Ferri", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "CM012", "texto": "Ferri – Turístico y vacíos", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" }
+]

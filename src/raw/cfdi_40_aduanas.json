@@ -1,0 +1,167 @@
+[
+  {
+    "id": "01",
+    "texto": "ACAPULCO, ACAPULCO DE JUAREZ, GUERRERO.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "02", "texto": "AGUA PRIETA, AGUA PRIETA, SONORA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "05",
+    "texto": "SUBTENIENTE LOPEZ, SUBTENIENTE LOPEZ, QUINTANA ROO.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "06",
+    "texto": "CIUDAD DEL CARMEN, CIUDAD DEL CARMEN, CAMPECHE.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "07",
+    "texto": "CIUDAD JUAREZ, CIUDAD JUAREZ, CHIHUAHUA.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "08",
+    "texto": "COATZACOALCOS, COATZACOALCOS, VERACRUZ.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "11", "texto": "ENSENADA, ENSENADA, BAJA CALIFORNIA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "12", "texto": "GUAYMAS, GUAYMAS, SONORA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "14", "texto": "LA PAZ, LA PAZ, BAJA CALIFORNIA SUR.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "16", "texto": "MANZANILLO, MANZANILLO, COLIMA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "17", "texto": "MATAMOROS, MATAMOROS, TAMAULIPAS.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "18", "texto": "MAZATLAN, MAZATLAN, SINALOA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "19", "texto": "MEXICALI, MEXICALI, BAJA CALIFORNIA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "20", "texto": "MEXICO, DISTRITO FEDERAL.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "22", "texto": "NACO, NACO, SONORA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "23", "texto": "NOGALES, NOGALES, SONORA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "24",
+    "texto": "NUEVO LAREDO, NUEVO LAREDO, TAMAULIPAS.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "25", "texto": "OJINAGA, OJINAGA, CHIHUAHUA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "26",
+    "texto": "PUERTO PALOMAS, PUERTO PALOMAS, CHIHUAHUA.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "27",
+    "texto": "PIEDRAS NEGRAS, PIEDRAS NEGRAS, COAHUILA.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "28", "texto": "PROGRESO, PROGRESO, YUCATAN.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "30",
+    "texto": "CIUDAD REYNOSA, CIUDAD REYNOSA, TAMAULIPAS.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "31", "texto": "SALINA CRUZ, SALINA CRUZ, OAXACA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "33",
+    "texto": "SAN LUIS RIO COLORADO, SAN LUIS RIO COLORADO, SONORA.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "34",
+    "texto": "CIUDAD MIGUEL ALEMAN, CIUDAD MIGUEL ALEMAN, TAMAULIPAS.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "37",
+    "texto": "CIUDAD HIDALGO, CIUDAD HIDALGO, CHIAPAS.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "38", "texto": "TAMPICO, TAMPICO, TAMAULIPAS.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "39", "texto": "TECATE, TECATE, BAJA CALIFORNIA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "40", "texto": "TIJUANA, TIJUANA, BAJA CALIFORNIA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "42",
+    "texto": "TUXPAN, TUXPAN DE RODRIGUEZ CANO, VERACRUZ.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "43", "texto": "VERACRUZ, VERACRUZ, VERACRUZ.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "44",
+    "texto": "CIUDAD ACUÑA, CIUDAD ACUÑA, COAHUILA.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "46", "texto": "TORREON, TORREON, COAHUILA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "47",
+    "texto": "AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO,",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "48",
+    "texto": "GUADALAJARA, TLACOMULCO DE ZUÑIGA, JALISCO.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "50", "texto": "SONOYTA, SONOYTA, SONORA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "51",
+    "texto": "LAZARO CARDENAS, LAZARO CARDENAS, MICHOACAN.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "52",
+    "texto": "MONTERREY, GENERAL MARIANO ESCOBEDO, NUEVO LEON.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "53", "texto": "CANCUN, CANCUN, QUINTANA ROO.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "64",
+    "texto": "QUERÉTARO, EL MARQUÉS Y COLON, QUERÉTARO.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "65", "texto": "TOLUCA, TOLUCA, ESTADO DE MEXICO.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "67", "texto": "CHIHUAHUA, CHIHUAHUA, CHIHUAHUA.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "73",
+    "texto": "AGUASCALIENTES, AGUASCALIENTES, AGUASCALIENTES.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "75",
+    "texto": "PUEBLA, HEROICA PUEBLA DE ZARAGOZA, PUEBLA.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "80", "texto": "COLOMBIA, COLOMBIA, NUEVO LEON.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "81", "texto": "ALTAMIRA, ALTAMIRA, TAMAULIPAS.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "82",
+    "texto": "CIUDAD CAMARGO, CIUDAD CAMARGO, TAMAULIPAS.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "83", "texto": "DOS BOCAS, PARAISO, TABASCO.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "84", "texto": "GUANAJUATO, SILAO, GUANAJUATO.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "85",
+    "texto": "AEROPUERTO INTERNACIONAL FELIPE ÁNGELES, SANTA LUCÍA, ZUMPANGO, ESTADO DE MÉXICO.",
+    "vigencia_desde": "2023-01-13",
+    "vigencia_hasta": ""
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01",
+    "texto": "Semanal",
+    "nombre_complemento": "Servicios Plataformas Tecnológicas",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "02",
+    "texto": "Mensual",
+    "nombre_complemento": "Servicios Plataformas Tecnológicas",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "03",
+    "texto": "Diario",
+    "nombre_complemento": "Servicios Plataformas Tecnológicas",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "04",
+    "texto": "Quincenal",
+    "nombre_complemento": "Servicios Plataformas Tecnológicas",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "05",
+    "texto": "Otro",
+    "nombre_complemento": "Servicios Plataformas Tecnológicas",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  }
+]

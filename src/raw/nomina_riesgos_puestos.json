@@ -1,0 +1,8 @@
+[
+  { "id": "1", "texto": "Clase I", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "2", "texto": "Clase II", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "3", "texto": "Clase III", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "4", "texto": "Clase IV", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "5", "texto": "Clase V", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  { "id": "99", "texto": "No aplica", "vigencia_desde": "2017-08-13", "vigencia_hasta": "" }
+]

@@ -1,0 +1,13 @@
+[
+  { "id": "01", "texto": "Proviene de CUFIN", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "02", "texto": "No proviene de CUFIN", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Reembolso o reducción de capital", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Liquidación de la persona moral", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "05", "texto": "CUFINRE", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "06",
+    "texto": "Proviene de CUFIN al 31 de diciembre 2013.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  }
+]

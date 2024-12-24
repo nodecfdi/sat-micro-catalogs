@@ -1,0 +1,6 @@
+[
+  { "id": "01", "texto": "Congelados", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Refrigerados", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Temperatura controlada", "vigencia_desde": "", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Temperatura ambiente", "vigencia_desde": "", "vigencia_hasta": "" }
+]

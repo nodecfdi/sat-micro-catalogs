@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "texto": "Artistas, deportistas y espectáculos públicos",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "2", "texto": "Otras personas físicas", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "3", "texto": "Persona moral", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "4", "texto": "Fideicomiso", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "5", "texto": "Asociación en participación", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "6",
+    "texto": "Organizaciones Internacionales o de gobierno",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  { "id": "7", "texto": "Organizaciones exentas", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "8", "texto": "Agentes pagadores", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "9", "texto": "Otros", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" }
+]

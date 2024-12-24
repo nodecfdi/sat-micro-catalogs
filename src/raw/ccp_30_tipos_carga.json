@@ -1,0 +1,8 @@
+[
+  { "id": "CGS", "texto": "Carga General Suelta", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "CGC", "texto": "Carga General Contenerizada", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "GMN", "texto": "Gran Mineral", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "GAG", "texto": "Granel Agrícola", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "OFL", "texto": "Otros Fluidos", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" },
+  { "id": "PYD", "texto": "Petróleo y Derivados", "vigencia_desde": "2023-11-25", "vigencia_hasta": "" }
+]

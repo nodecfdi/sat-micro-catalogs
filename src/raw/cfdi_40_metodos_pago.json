@@ -1,0 +1,4 @@
+[
+  { "id": "PUE", "texto": "Pago en una sola exhibición", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "PPD", "texto": "Pago en parcialidades o diferido", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" }
+]

@@ -1,0 +1,35 @@
+[
+  { "id": "01", "texto": "No objeto de impuesto.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Sí objeto de impuesto.", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "03",
+    "texto": "Sí objeto del impuesto y no obligado al desglose.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "04",
+    "texto": "Sí objeto del impuesto y no causa impuesto.",
+    "vigencia_desde": "2022-10-07",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "05",
+    "texto": "Sí objeto del impuesto, IVA crédito PODEBI.",
+    "vigencia_desde": "2023-12-06",
+    "vigencia_hasta": ""
+  },
+  { "id": "06", "texto": "Sí objeto del IVA, No traslado IVA.", "vigencia_desde": "2024-12-13", "vigencia_hasta": "" },
+  {
+    "id": "07",
+    "texto": "No traslado del IVA, Sí desglose IEPS.",
+    "vigencia_desde": "2024-12-13",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "08",
+    "texto": "No traslado del IVA, No desglose IEPS.",
+    "vigencia_desde": "2024-12-13",
+    "vigencia_hasta": ""
+  }
+]

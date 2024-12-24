@@ -1,0 +1,218 @@
+[
+  {
+    "id": "G01",
+    "texto": "Adquisición de mercancías.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625,626"
+  },
+  {
+    "id": "G02",
+    "texto": "Devoluciones, descuentos o bonificaciones.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 616, 620, 621, 622, 623, 624, 625,626"
+  },
+  {
+    "id": "G03",
+    "texto": "Gastos en general.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+  },
+  {
+    "id": "I01",
+    "texto": "Construcciones.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+  },
+  {
+    "id": "I02",
+    "texto": "Mobiliario y equipo de oficina por inversiones.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+  },
+  {
+    "id": "I03",
+    "texto": "Equipo de transporte.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+  },
+  {
+    "id": "I04",
+    "texto": "Equipo de computo y accesorios.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+  },
+  {
+    "id": "I05",
+    "texto": "Dados, troqueles, moldes, matrices y herramental.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+  },
+  {
+    "id": "I06",
+    "texto": "Comunicaciones telefónicas.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+  },
+  {
+    "id": "I07",
+    "texto": "Comunicaciones satelitales.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+  },
+  {
+    "id": "I08",
+    "texto": "Otra maquinaria y equipo.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+  },
+  {
+    "id": "D01",
+    "texto": "Honorarios médicos, dentales y gastos hospitalarios.",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "D02",
+    "texto": "Gastos médicos por incapacidad o discapacidad.",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "D03",
+    "texto": "Gastos funerales.",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "D04",
+    "texto": "Donativos.",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "D05",
+    "texto": "Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación).",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "D06",
+    "texto": "Aportaciones voluntarias al SAR.",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "D07",
+    "texto": "Primas por seguros de gastos médicos.",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "D08",
+    "texto": "Gastos de transportación escolar obligatoria.",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "D09",
+    "texto": "Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "D10",
+    "texto": "Pagos por servicios educativos (colegiaturas).",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+  },
+  {
+    "id": "S01",
+    "texto": "Sin efectos fiscales.",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+  },
+  {
+    "id": "CP01",
+    "texto": "Pagos",
+    "aplica_fisica": 1,
+    "aplica_moral": 1,
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+  },
+  {
+    "id": "CN01",
+    "texto": "Nómina",
+    "aplica_fisica": 1,
+    "aplica_moral": "",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": "",
+    "regimenes_fiscales_receptores": "605"
+  }
+]

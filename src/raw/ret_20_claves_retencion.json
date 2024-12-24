@@ -1,0 +1,198 @@
+[
+  {
+    "id": "01",
+    "texto": "Servicios profesionales.",
+    "nombre_complemento": "En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado \"Pagos a Extranjeros\".",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "02",
+    "texto": "Regalías por derechos de autor.",
+    "nombre_complemento": "En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado \"Pagos a Extranjeros\".",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "03",
+    "texto": "Autotransporte terrestre de carga.",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "04",
+    "texto": "Servicios prestados por comisionistas.",
+    "nombre_complemento": "En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado \"Pagos a Extranjeros\".",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "05",
+    "texto": "Arrendamiento.",
+    "nombre_complemento": "En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado \"Pagos a Extranjeros\".",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "06",
+    "texto": "Enajenación de acciones.",
+    "nombre_complemento": "Enajenación de Acciones.",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "07",
+    "texto": "Enajenación de bienes objeto de la LIEPS, a través de mediadores, agentes, representantes, corredores, consignatarios o distribuidores.",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "08",
+    "texto": "Enajenación de bienes inmuebles consignada en escritura pública.",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "09",
+    "texto": "Enajenación de otros bienes, no consignada en escritura pública.",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "10",
+    "texto": "Adquisición de desperdicios industriales.",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "11",
+    "texto": "Adquisición de bienes consignada en escritura pública.",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "12",
+    "texto": "Adquisición de otros bienes, no consignada en escritura pública.",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "13",
+    "texto": "Otros retiros de AFORE.",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "14",
+    "texto": "Dividendos o utilidades distribuidas.",
+    "nombre_complemento": "Dividendos",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "15",
+    "texto": "Remanente distribuible.",
+    "nombre_complemento": "Dividendos",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "16",
+    "texto": "Intereses.",
+    "nombre_complemento": "Intereses",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "17",
+    "texto": "Arrendamiento en fideicomiso.",
+    "nombre_complemento": "Arrendamiento en fideicomiso",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "18",
+    "texto": "Pagos realizados a favor de residentes en el extranjero.",
+    "nombre_complemento": "Pagos a Extranjeros",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "19",
+    "texto": "Enajenación de acciones u operaciones en bolsa de valores.",
+    "nombre_complemento": "Enajenación de Acciones",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "20",
+    "texto": "Obtención de premios.",
+    "nombre_complemento": "Premios",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "21",
+    "texto": "Fideicomisos que no realizan actividades empresariales.",
+    "nombre_complemento": "Fideicomiso no Empresarial",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "22",
+    "texto": "Planes personales de retiro.",
+    "nombre_complemento": "Planes de Retiro",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "23",
+    "texto": "Intereses reales deducibles por créditos hipotecarios.",
+    "nombre_complemento": "Intereses Hipotecarios",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "24",
+    "texto": "Operaciones Financieras Derivadas de Capital.",
+    "nombre_complemento": "Operaciones con Derivados",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "25",
+    "texto": "Otro tipo de retenciones.",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2015-05-22",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "26",
+    "texto": "Servicios mediante Plataformas Tecnológicas",
+    "nombre_complemento": "Servicios mediante Plataformas Tecnológicas",
+    "vigencia_desde": "2019-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "27",
+    "texto": "Sector Financiero",
+    "nombre_complemento": "Sector Financiero- Sólo se incorpora este complemento cuando las entidades integrantes del sistema financiero actúen en su carácter de fiduciarias.",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "28",
+    "texto": "Pagos y retenciones a Contribuyentes del RIF",
+    "nombre_complemento": "Sin complemento",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  }
+]

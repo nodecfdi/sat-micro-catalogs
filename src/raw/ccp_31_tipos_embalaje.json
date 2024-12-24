@@ -1,0 +1,296 @@
+[
+  {
+    "id": "1A1",
+    "texto": "Bidones (Tambores) de Acero 1 de tapa no desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "1A2",
+    "texto": "Bidones (Tambores) de Acero 1 de tapa desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "1B1",
+    "texto": "Bidones (Tambores) de Aluminio de tapa no desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "1B2",
+    "texto": "Bidones (Tambores) de Aluminio de tapa desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "1D",
+    "texto": "Bidones (Tambores) de Madera contrachapada",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  { "id": "1G", "texto": "Bidones (Tambores) de Cartón", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  {
+    "id": "1H1",
+    "texto": "Bidones (Tambores) de Plástico de tapa no desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "1H2",
+    "texto": "Bidones (Tambores) de Plástico de tapa desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "1N1",
+    "texto": "Bidones (Tambores) de Metal que no sea acero ni aluminio de tapa no desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "1N2",
+    "texto": "Bidones (Tambores) de Metal que no sea acero ni aluminio de tapa desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "3A1",
+    "texto": "Jerricanes (Porrones) de Acero de tapa no desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "3A2",
+    "texto": "Jerricanes (Porrones) de Acero de tapa desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "3B1",
+    "texto": "Jerricanes (Porrones) de Aluminio de tapa no desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "3B2",
+    "texto": "Jerricanes (Porrones) de Aluminio de tapa desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "3H1",
+    "texto": "Jerricanes (Porrones) de Plástico de tapa no desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "3H2",
+    "texto": "Jerricanes (Porrones) de Plástico de tapa desmontable",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  { "id": "4A", "texto": "Cajas de Acero", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "4B", "texto": "Cajas de Aluminio", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "4C1", "texto": "Cajas de Madera natural ordinaria", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  {
+    "id": "4C2",
+    "texto": "Cajas de Madera natural de paredes a prueba de polvos (estancas a los pulverulentos)",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  { "id": "4D", "texto": "Cajas de Madera contrachapada", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "4F", "texto": "Cajas de Madera reconstituida", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "4G", "texto": "Cajas de Cartón", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "4H1", "texto": "Cajas de Plástico Expandido", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "4H2", "texto": "Cajas de Plástico Rígido", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  {
+    "id": "5H1",
+    "texto": "Sacos (Bolsas) de Tejido de plástico sin forro ni revestimientos interiores",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "5H2",
+    "texto": "Sacos (Bolsas) de Tejido de plástico a prueba de polvos (estancos a los pulverulentos)",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "5H3",
+    "texto": "Sacos (Bolsas) de Tejido de plástico resistente al agua",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "5H4",
+    "texto": "Sacos (Bolsas) de Película de plástico",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "5L1",
+    "texto": "Sacos (Bolsas) de Tela sin forro ni revestimientos interiores",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "5L2",
+    "texto": "Sacos (Bolsas) de Tela a prueba de polvos (estancos a los pulverulentos)",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "5L3",
+    "texto": "Sacos (Bolsas) de Tela resistentes al agua",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "5M1",
+    "texto": "Sacos (Bolsas) de Papel de varias hojas",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "5M2",
+    "texto": "Sacos (Bolsas) de Papel de varias hojas, resistentes al agua",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HA1",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con bidón (tambor) de acero",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HA2",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con una jaula o caja de acero",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HB1",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con un bidón (tambor) exterior de aluminio",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HB2",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con una jaula o caja de aluminio",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HC",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con una caja de madera",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HD1",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con un bidón (tambor) de madera contrachapada",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HD2",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con una caja de madera contrachapada",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HG1",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con un bidón (tambor) de cartón",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HG2",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con una caja de cartón",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HH1",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con un bidón (tambor) de plástico",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6HH2",
+    "texto": "Envases y embalajes compuestos de Recipiente de plástico, con caja de plástico rígido",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PA1",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con un bidón (tambor) de acero",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PA2",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con una jaula o una caja de acero",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PB1",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con un bidón (tambor) exterior de aluminio",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PB2",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con una jaula o una caja de aluminio",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PC",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con una caja de madera",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PD1",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con bidón (tambor) de madera contrachapada",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PD2",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con canasta de mimbre",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PG1",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con un bidón (tambor) de cartón",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PG2",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con una caja de cartón",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PH1",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con un envase y embalaje de plástico expandido",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "6PH2",
+    "texto": "Envases y embalajes compuestos de Recipiente de vidrio, porcelana o de gres, con un envase y embalaje de plástico rígido",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  { "id": "7H1", "texto": "Bultos de Plástico", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "7L1", "texto": "Bultos de Tela", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  { "id": "Z01", "texto": "No aplica", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": "01", "texto": "Autotransporte", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "02", "texto": "Transporte Marítimo", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "03", "texto": "Transporte Aéreo", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" },
+  { "id": "04", "texto": "Transporte Ferroviario", "vigencia_desde": "2021-12-01", "vigencia_hasta": "" }
+]
