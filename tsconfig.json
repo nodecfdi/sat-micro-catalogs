@@ -3,7 +3,8 @@
   "compilerOptions": {
     "rootDir": "./",
     "outDir": "./build",
-    "types": ["vitest/globals", "@types/node"]
+    "types": ["vitest/globals", "@types/node"],
+    "resolveJsonModule": true
   },
   "exclude": ["node_modules", "build", "coverage"]
 }
