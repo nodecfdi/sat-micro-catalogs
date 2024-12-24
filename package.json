@@ -1,7 +1,7 @@
 {
   "name": "@nodecfdi/sat-micro-catalogs",
   "description": "Micro Catálogos CFDI del SAT",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "module": "./build/helpers.js",
   "types": "./build/helpers.d.ts",
