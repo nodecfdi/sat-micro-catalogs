@@ -20,7 +20,8 @@
         "types": "./build/types.d.ts",
         "default": "./build/types.js"
       }
-    }
+    },
+    "./raw/*": "./build/raw/*.json"
   },
   "scripts": {
     "prepare": "is-in-ci || husky",
