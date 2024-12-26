@@ -33,6 +33,8 @@
     "test": "vitest",
     "test:run": "vitest run",
     "test:coverage": "vitest run --coverage",
+    "tool:code": "pnpm run lint:check && pnpm run format:check && pnpm run typecheck",
+    "tool:build": "pnpm run tool:code && pnpm run test:run",
     "clean": "del-cli build",
     "gen:docs": "typedoc --options typedoc.json",
     "gen:catalogs": "node ace sat-catalogs:populate",
@@ -66,7 +68,7 @@
     "prettier": "^3.4.2",
     "ts-node-maintained": "^10.9.4",
     "tsup": "^8.3.5",
-    "typedoc": "^0.27.5",
+    "typedoc": "^0.27.6",
     "typedoc-github-theme": "^0.2.0",
     "typescript": "^5.7.2",
     "vitest": "^2.1.8"
