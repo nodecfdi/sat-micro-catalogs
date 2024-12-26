@@ -1,6 +1,8 @@
 import { type SatCatalogItem } from './types.js';
 
-export class SatCatalog<T extends { id: string; texto: string }> extends Array<SatCatalogItem<T>> {
+export class SatCatalog<T extends { id: string; texto: string } = { id: string; texto: string }> extends Array<
+  SatCatalogItem<T>
+> {
   public findAndReturnEtiqueta(search: string): string {
     const item = this.find((raw) => raw.id === search);
 
