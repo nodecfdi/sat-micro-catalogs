@@ -18,27 +18,22 @@
 
 :mexico: La documentación del proyecto está en español porque ese es el lenguaje principal de los usuarios.
 
-> [!WARNING]
-> This package is native [ESM](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) and no longer provides a CommonJS export. If your project uses CommonJS, you will have to [convert to ESM](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c). Please don't open issues for questions regarding CommonJS / ESM.
-
 ## Acerca de `@nodecfdi/sat-micro-catalogs`
 
 Librería que expone los catalogos de SAT en formato json, solo aquellos que tienen menos de 100 filas. Además contiene helpers para trabajar con estos archivos y sus valores.
 
 ## Documentación
 
-La documentación está disponible en el sitio web [NodeCfdi](https://nodecfdi.com/librarys/sat-micro-catalogs/getting-started/)
+La documentación está disponible en el sitio web [NodeCfdi](https://nodecfdi.com/packages/sat-micro-catalogs/getting-started)
 
 ## Soporte
 
 Puedes obtener soporte abriendo un ticket en Github.
 
-Adicionalmente, esta librería pertenece a la comunidad [OcelotlStudio](https://ocelotlstudio.com), así que puedes usar los mismos canales de comunicación para obtener ayuda de algún miembro de la comunidad.
-
 ## Compatibilidad
 
-La librería es compatible con Node.js 22 desde la versión 22.13.0 y con las ramas 24 y 26.
-Para compilar y publicar con pnpm 12.21.0, usa Node.js 24.15.0 o un parche posterior de la rama 24, o Node.js 26.
+Esta librería se mantendrá compatible con al menos la versión con
+[soporte activo de Node](https://nodejs.org/es/about/releases/) más reciente.
 
 También utilizamos [Versionado Semántico 2.0.0](https://semver.org/lang/es/) por lo que puedes usar esta librería sin temor a romper tu aplicación.
 
@@ -48,7 +43,7 @@ Las contribuciones con bienvenidas. Por favor lee [CONTRIBUTING][] para más det
 
 ## Copyright and License
 
-The `@nodecfdi/sat-micro-catalogs` library is copyright © [NodeCfdi](https://github.com/nodecfdi) - [OcelotlStudio](https://ocelotlstudio.com) and licensed for use under the MIT License (MIT). Please see [LICENSE][] for more information.
+The `@nodecfdi/sat-micro-catalogs` library is copyright © [NodeCfdi](https://github.com/nodecfdi) and licensed for use under the MIT License (MIT). Please see [LICENSE][] for more information.
 
 [contributing]: https://github.com/nodecfdi/.github/blob/main/docs/CONTRIBUTING.md
 [changelog]: https://github.com/nodecfdi/sat-micro-catalogs/blob/main/CHANGELOG.md
@@ -56,7 +51,7 @@ The `@nodecfdi/sat-micro-catalogs` library is copyright © [NodeCfdi](https://gi
 [node-version]: https://www.npmjs.com/package/@nodecfdi/sat-micro-catalogs
 [discord]: https://discord.gg/AsqX8fkW2k
 [release]: https://www.npmjs.com/package/@nodecfdi/sat-micro-catalogs
-[license]: https://github.com/nodecfdi/sat-micro-catalogs/blob/main/LICENSE.md
+[license]: https://github.com/nodecfdi/sat-micro-catalogs/blob/main/LICENSE
 [build]: https://github.com/nodecfdi/sat-micro-catalogs/actions/workflows/build.yml?query=branch:main
 [reliability]: https://sonarcloud.io/component_measures?id=nodecfdi_sat-micro-catalogs&metric=Reliability
 [maintainability]: https://sonarcloud.io/component_measures?id=nodecfdi_sat-micro-catalogs&metric=Maintainability
