@@ -26,52 +26,34 @@
   "scripts": {
     "prepare": "is-in-ci || husky",
     "typecheck": "tsc --noEmit",
-    "lint": "eslint . --fix",
-    "lint:check": "eslint .",
-    "format": "prettier --write .",
-    "format:check": "prettier --check .",
     "test": "vitest",
     "test:run": "vitest run",
     "test:coverage": "vitest run --coverage",
-    "tool:code": "pnpm run lint:check && pnpm run format:check && pnpm run typecheck",
+    "tool:code": "pnpm run typecheck",
     "tool:build": "pnpm run tool:code && pnpm run test:run",
-    "clean": "del-cli build",
-    "gen:docs": "typedoc --options typedoc.json",
     "gen:catalogs": "node ace sat-catalogs:populate",
-    "changelog": "auto-changelog -p && git add CHANGELOG.md",
-    "prebuild": "pnpm run lint:check && pnpm run typecheck",
-    "build": "pnpm run clean && tsup-node",
-    "postbuild": "pnpm run gen:docs && git add docs/*",
-    "release": "np",
-    "version": "pnpm run build && pnpm run changelog"
+    "changelog": "auto-changelog -p",
+    "build": "pnpm run typecheck && tsdown",
+    "release": "release-it"
   },
   "devDependencies": {
-    "@adonisjs/ace": "^13.3.0",
-    "@commitlint/cli": "^19.6.1",
-    "@commitlint/config-conventional": "^19.6.0",
-    "@nodecfdi/eslint-config": "^2.4.2",
-    "@nodecfdi/prettier-config": "^1.4.0",
-    "@nodecfdi/tsconfig": "^1.7.3",
-    "@poppinss/utils": "^6.8.3",
-    "@swc/core": "^1.10.1",
-    "@types/better-sqlite3": "^7.6.12",
-    "@types/node": "^22.10.2",
-    "@vitest/coverage-istanbul": "^2.1.8",
-    "auto-changelog": "^2.5.0",
-    "better-sqlite3": "^11.7.0",
-    "del": "^8.0.0",
-    "del-cli": "^6.0.0",
-    "eslint": "^9.17.0",
+    "@adonisjs/ace": "^13.4.0",
+    "@commitlint/cli": "^21.2.4",
+    "@commitlint/config-conventional": "^21.2.4",
+    "@poppinss/utils": "^7.1.2",
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^22.20.5",
+    "@vitest/coverage-istanbul": "^5.1.0",
+    "auto-changelog": "^2.7.0",
+    "better-sqlite3": "^12.11.1",
+    "del": "^9.0.1",
     "husky": "^9.1.7",
-    "is-in-ci": "^1.0.0",
-    "np": "^10.1.0",
-    "prettier": "^3.4.2",
-    "ts-node-maintained": "^10.9.4",
-    "tsup": "^8.3.5",
-    "typedoc": "^0.27.6",
-    "typedoc-github-theme": "^0.2.0",
-    "typescript": "^5.7.2",
-    "vitest": "^2.1.8"
+    "is-in-ci": "^2.0.0",
+    "release-it": "^21.1.2",
+    "ts-node-maintained": "^10.9.6",
+    "tsdown": "^0.23.7",
+    "typescript": "^6.0.3",
+    "vitest": "^5.1.0"
   },
   "author": "Fernando Isidro <luffynando@gmail.com>",
   "license": "MIT",
@@ -90,43 +72,48 @@
     "catalogos"
   ],
   "engines": {
-    "node": "^18 || ^20 || ^22"
+    "node": "^22.13.0 || ^24 || ^26"
   },
   "browserslist": [
     "defaults",
     "not IE 11"
   ],
-  "packageManager": "pnpm@9.15.1",
+  "packageManager": "pnpm@12.21.0",
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
     ]
   },
-  "prettier": "@nodecfdi/prettier-config/pkg",
   "publishConfig": {
     "access": "public",
     "tag": "latest"
   },
   "auto-changelog": {
     "template": "keepachangelog",
-    "hide-credit": true
+    "hideCredit": true
   },
-  "np": {
-    "message": "chore(release): :tada: %s",
-    "tag": "latest",
-    "branch": "main",
-    "testScript": "test:run"
-  },
-  "tsup": {
-    "entry": [
-      "./src/helpers.ts",
-      "./src/types.ts"
-    ],
-    "publicDir": "./stubs",
-    "outDir": "./build",
-    "clean": false,
-    "format": "esm",
-    "dts": true,
-    "target": "esnext"
+  "release-it": {
+    "git": {
+      "requireBranch": "main",
+      "commitMessage": "chore(release): :tada: ${version}",
+      "tagName": "v${version}"
+    },
+    "github": {
+      "release": true,
+      "web": true
+    },
+    "npm": {
+      "publishPackageManager": "pnpm",
+      "publishArgs": [
+        "--no-git-checks"
+      ]
+    },
+    "hooks": {
+      "before:init": "pnpm run test:run",
+      "after:bump": [
+        "pnpm run build",
+        "pnpm run changelog"
+      ]
+    }
   }
 }

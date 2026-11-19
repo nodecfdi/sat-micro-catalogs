@@ -3,9 +3,7 @@ import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { promisify } from 'node:util';
 import { BaseCommand } from '@adonisjs/ace';
-import { getDirname } from '@poppinss/utils';
 import string from '@poppinss/utils/string';
-// eslint-disable-next-line import-x/no-named-as-default
 import Database, { type Database as DatabaseType } from 'better-sqlite3';
 import { deleteAsync } from 'del';
 
@@ -64,10 +62,6 @@ export default class SatCatalogsPopulateCommand extends BaseCommand {
       return;
     }
 
-    const applyPrettier = this.logger.action('Apply formatter using prettier');
-    await execAsync(`pnpm prettier --write ${jsonPath}`);
-    applyPrettier.displayDuration().succeeded();
-
     await clean(tmpPath);
   }
 
@@ -93,8 +87,7 @@ export default class SatCatalogsPopulateCommand extends BaseCommand {
 
   private async populateTable(db: DatabaseType, tableName: string, jsonPathTable: string): Promise<void> {
     const tableRows = db.prepare(`SELECT * FROM ${tableName}`).all();
-    const jsonData = JSON.stringify(tableRows);
-    await writeFile(jsonPathTable, jsonData);
+    await writeFile(jsonPathTable, `${JSON.stringify(tableRows, null, 2)}\n`);
   }
 
   private async decompressFile(inputPath: string): Promise<void> {
@@ -111,10 +104,9 @@ export default class SatCatalogsPopulateCommand extends BaseCommand {
     rootPath: string;
     jsonPath: string;
     tmpPath: string;
-    // eslint-disable-next-line @typescript-eslint/method-signature-style
     clean: (targetPath: string) => Promise<void>;
   } {
-    const rootPath = path.join(getDirname(import.meta.url), '..', '..');
+    const rootPath = path.join(import.meta.dirname, '..', '..');
     const jsonPath = path.join(rootPath, 'stubs', 'raw');
     const tmpPath = path.join(rootPath, 'tmp');
 

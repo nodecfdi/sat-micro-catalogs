@@ -1,9 +1,13 @@
 {
-  "extends": "@nodecfdi/tsconfig/tsconfig.package.json",
   "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "strict": true,
+    "skipLibCheck": true,
+    "verbatimModuleSyntax": true,
     "rootDir": "./",
     "outDir": "./build",
-    "types": ["vitest/globals", "@types/node"],
+    "types": ["vitest/globals", "node"],
     "resolveJsonModule": true
   },
   "exclude": ["node_modules", "build", "coverage"]

@@ -37,8 +37,8 @@ Adicionalmente, esta librería pertenece a la comunidad [OcelotlStudio](https://
 
 ## Compatibilidad
 
-Esta librería se mantendrá compatible con al menos la versión con
-[soporte activo de Node](https://nodejs.org/es/about/releases/) más reciente.
+La librería es compatible con Node.js 22 desde la versión 22.13.0 y con las ramas 24 y 26.
+Para compilar y publicar con pnpm 12.21.0, usa Node.js 24.15.0 o un parche posterior de la rama 24, o Node.js 26.
 
 También utilizamos [Versionado Semántico 2.0.0](https://semver.org/lang/es/) por lo que puedes usar esta librería sin temor a romper tu aplicación.
 
