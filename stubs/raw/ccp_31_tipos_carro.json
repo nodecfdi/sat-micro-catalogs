@@ -1,8 +1,32 @@
 [
-  { "id": "TC01", "texto": "Furgón", "contenedor": "0", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "TC02", "texto": "Góndola", "contenedor": "0", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "TC03", "texto": "Tolva", "contenedor": "0", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "TC04", "texto": "Tanque", "contenedor": "0", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  {
+    "id": "TC01",
+    "texto": "Furgón",
+    "contenedor": "0",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "TC02",
+    "texto": "Góndola",
+    "contenedor": "0",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "TC03",
+    "texto": "Tolva",
+    "contenedor": "0",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "TC04",
+    "texto": "Tanque",
+    "contenedor": "0",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
   {
     "id": "TC05",
     "texto": "Plataforma Intermodal",
@@ -24,9 +48,27 @@
     "vigencia_desde": "2024-07-17",
     "vigencia_hasta": ""
   },
-  { "id": "TC08", "texto": "Locomotora", "contenedor": "0", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "TC09", "texto": "Carro Especial", "contenedor": "0", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "TC10", "texto": "Pasajeros", "contenedor": "0", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  {
+    "id": "TC08",
+    "texto": "Locomotora",
+    "contenedor": "0",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "TC09",
+    "texto": "Carro Especial",
+    "contenedor": "0",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "TC10",
+    "texto": "Pasajeros",
+    "contenedor": "0",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
   {
     "id": "TC11",
     "texto": "Mantenimiento de Vía",

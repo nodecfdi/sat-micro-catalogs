@@ -1,7 +1,7 @@
 [
   {
     "id": "001",
-    "texto": "Reintegro de ISR pagado en exceso (siempre que no haya sido enterado al SAT).",
+    "texto": "Reintegro de ISR retenido en exceso (siempre que no haya sido enterado al SAT).",
     "vigencia_desde": "2017-01-01",
     "vigencia_hasta": ""
   },
@@ -31,11 +31,16 @@
   },
   {
     "id": "006",
-    "texto": "Alimentos en bienes (Servicios de comedor y comida) Art 94 último párrafo LISR.",
+    "texto": "Alimentos en bienes (Servicios de comedor y comida) Art 94 penúltimo párrafo LISR.",
     "vigencia_desde": "2020-01-01",
     "vigencia_hasta": ""
   },
-  { "id": "007", "texto": "ISR ajustado por subsidio.", "vigencia_desde": "2020-01-01", "vigencia_hasta": "" },
+  {
+    "id": "007",
+    "texto": "ISR ajustado por subsidio.",
+    "vigencia_desde": "2020-01-01",
+    "vigencia_hasta": ""
+  },
   {
     "id": "008",
     "texto": "Subsidio efectivamente entregado que no correspondía (Aplica sólo cuando haya ajuste al cierre de mes en relación con el Apéndice 7 de la guía de llenado de nómina).",

@@ -189,12 +189,12 @@
   {
     "tipo": "Rango",
     "minimo": "0.000000",
-    "valor": "66.506200",
+    "valor": "72.160500",
     "impuesto": "IEPS",
     "factor": "Cuota",
     "traslado": 1,
     "retencion": 1,
-    "vigencia_desde": "2024-01-01",
+    "vigencia_desde": "2026-01-01",
     "vigencia_hasta": ""
   },
   {

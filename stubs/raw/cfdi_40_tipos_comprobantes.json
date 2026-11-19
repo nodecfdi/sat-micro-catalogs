@@ -13,7 +13,13 @@
     "vigencia_desde": "2022-01-01",
     "vigencia_hasta": ""
   },
-  { "id": "T", "texto": "Traslado", "valor_maximo": "0", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "T",
+    "texto": "Traslado",
+    "valor_maximo": "0",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
   {
     "id": "N",
     "texto": "Nómina",

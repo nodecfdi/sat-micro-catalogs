@@ -1,5 +1,20 @@
 [
-  { "id": "01", "texto": "ISR", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
-  { "id": "02", "texto": "IVA", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
-  { "id": "03", "texto": "IEPS", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" }
+  {
+    "id": "01",
+    "texto": "ISR",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "02",
+    "texto": "IVA",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "03",
+    "texto": "IEPS",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  }
 ]

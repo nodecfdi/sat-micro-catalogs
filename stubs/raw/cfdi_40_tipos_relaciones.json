@@ -17,7 +17,12 @@
     "vigencia_desde": "2022-01-01",
     "vigencia_hasta": ""
   },
-  { "id": "04", "texto": "Sustitución de los CFDI previos", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" },
+  {
+    "id": "04",
+    "texto": "Sustitución de los CFDI previos",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  },
   {
     "id": "05",
     "texto": "Traslados de mercancías facturados previamente",
@@ -30,5 +35,10 @@
     "vigencia_desde": "2022-01-01",
     "vigencia_hasta": ""
   },
-  { "id": "07", "texto": "CFDI por aplicación de anticipo", "vigencia_desde": "2022-01-01", "vigencia_hasta": "" }
+  {
+    "id": "07",
+    "texto": "CFDI por aplicación de anticipo",
+    "vigencia_desde": "2022-01-01",
+    "vigencia_hasta": ""
+  }
 ]

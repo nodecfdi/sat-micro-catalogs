@@ -1,6 +1,16 @@
 [
-  { "id": "01", "texto": "Pedimento", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "02", "texto": "Autorización de importación temporal", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  {
+    "id": "01",
+    "texto": "Pedimento",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "02",
+    "texto": "Autorización de importación temporal",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
   {
     "id": "03",
     "texto": "Autorización de importación temporal de embarcaciones",
@@ -19,7 +29,12 @@
     "vigencia_desde": "2024-07-17",
     "vigencia_hasta": ""
   },
-  { "id": "06", "texto": "Aviso de exportación temporal", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  {
+    "id": "06",
+    "texto": "Aviso de exportación temporal",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
   {
     "id": "07",
     "texto": "Aviso de traslado de mercancías de empresas con Programa IMMEX, RFE u Operador Económico Autorizado",
@@ -50,9 +65,24 @@
     "vigencia_desde": "2024-07-17",
     "vigencia_hasta": ""
   },
-  { "id": "12", "texto": "Cuaderno ATA", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "13", "texto": "Listas de intercambio", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "14", "texto": "Permiso de Importación Temporal", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
+  {
+    "id": "12",
+    "texto": "Cuaderno ATA",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "13",
+    "texto": "Listas de intercambio",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "14",
+    "texto": "Permiso de Importación Temporal",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
   {
     "id": "15",
     "texto": "Permiso de importación temporal de casa rodante",
@@ -71,7 +101,22 @@
     "vigencia_desde": "2024-07-17",
     "vigencia_hasta": ""
   },
-  { "id": "18", "texto": "Aviso de consolidado", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "19", "texto": "Aviso de cruce de mercancias", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" },
-  { "id": "20", "texto": "Otro", "vigencia_desde": "2024-07-17", "vigencia_hasta": "" }
+  {
+    "id": "18",
+    "texto": "Aviso de consolidado",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "19",
+    "texto": "Aviso de cruce de mercancias",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "20",
+    "texto": "Otro",
+    "vigencia_desde": "2024-07-17",
+    "vigencia_hasta": ""
+  }
 ]

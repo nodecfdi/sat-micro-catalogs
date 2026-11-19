@@ -29,7 +29,12 @@
     "vigencia_desde": "2021-06-01",
     "vigencia_hasta": ""
   },
-  { "id": "1G", "texto": "Bidones (Tambores) de Cartón", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
+  {
+    "id": "1G",
+    "texto": "Bidones (Tambores) de Cartón",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
   {
     "id": "1H1",
     "texto": "Bidones (Tambores) de Plástico de tapa no desmontable",
@@ -90,20 +95,60 @@
     "vigencia_desde": "2021-06-01",
     "vigencia_hasta": ""
   },
-  { "id": "4A", "texto": "Cajas de Acero", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
-  { "id": "4B", "texto": "Cajas de Aluminio", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
-  { "id": "4C1", "texto": "Cajas de Madera natural ordinaria", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
+  {
+    "id": "4A",
+    "texto": "Cajas de Acero",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "4B",
+    "texto": "Cajas de Aluminio",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "4C1",
+    "texto": "Cajas de Madera natural ordinaria",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
   {
     "id": "4C2",
     "texto": "Cajas de Madera natural de paredes a prueba de polvos (estancas a los pulverulentos)",
     "vigencia_desde": "2021-06-01",
     "vigencia_hasta": ""
   },
-  { "id": "4D", "texto": "Cajas de Madera contrachapada", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
-  { "id": "4F", "texto": "Cajas de Madera reconstituida", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
-  { "id": "4G", "texto": "Cajas de Cartón", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
-  { "id": "4H1", "texto": "Cajas de Plástico Expandido", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
-  { "id": "4H2", "texto": "Cajas de Plástico Rígido", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
+  {
+    "id": "4D",
+    "texto": "Cajas de Madera contrachapada",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "4F",
+    "texto": "Cajas de Madera reconstituida",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "4G",
+    "texto": "Cajas de Cartón",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "4H1",
+    "texto": "Cajas de Plástico Expandido",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "4H2",
+    "texto": "Cajas de Plástico Rígido",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
   {
     "id": "5H1",
     "texto": "Sacos (Bolsas) de Tejido de plástico sin forro ni revestimientos interiores",
@@ -290,7 +335,22 @@
     "vigencia_desde": "2021-06-01",
     "vigencia_hasta": ""
   },
-  { "id": "7H1", "texto": "Bultos de Plástico", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
-  { "id": "7L1", "texto": "Bultos de Tela", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" },
-  { "id": "Z01", "texto": "No aplica", "vigencia_desde": "2021-06-01", "vigencia_hasta": "" }
+  {
+    "id": "7H1",
+    "texto": "Bultos de Plástico",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "7L1",
+    "texto": "Bultos de Tela",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  },
+  {
+    "id": "Z01",
+    "texto": "No aplica",
+    "vigencia_desde": "2021-06-01",
+    "vigencia_hasta": ""
+  }
 ]

@@ -1,4 +1,10 @@
 [
-  { "id": "O", "texto": "Nómina ordinaria" },
-  { "id": "E", "texto": "Nómina extraordinaria" }
+  {
+    "id": "O",
+    "texto": "Nómina ordinaria"
+  },
+  {
+    "id": "E",
+    "texto": "Nómina extraordinaria"
+  }
 ]

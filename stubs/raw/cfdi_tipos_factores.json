@@ -1,1 +1,11 @@
-[{ "id": "Tasa" }, { "id": "Cuota" }, { "id": "Exento" }]
+[
+  {
+    "id": "Tasa"
+  },
+  {
+    "id": "Cuota"
+  },
+  {
+    "id": "Exento"
+  }
+]

@@ -23,7 +23,12 @@
     "vigencia_desde": "2024-01-18",
     "vigencia_hasta": ""
   },
-  { "id": "DAP", "texto": "ENTREGADA EN LUGAR.", "vigencia_desde": "2024-01-18", "vigencia_hasta": "" },
+  {
+    "id": "DAP",
+    "texto": "ENTREGADA EN LUGAR.",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
   {
     "id": "DDP",
     "texto": "ENTREGADA DERECHOS PAGADOS (LUGAR DE DESTINO CONVENIDO).",
@@ -36,7 +41,12 @@
     "vigencia_desde": "2024-01-18",
     "vigencia_hasta": ""
   },
-  { "id": "EXW", "texto": "EN FABRICA (LUGAR CONVENIDO).", "vigencia_desde": "2024-01-18", "vigencia_hasta": "" },
+  {
+    "id": "EXW",
+    "texto": "EN FABRICA (LUGAR CONVENIDO).",
+    "vigencia_desde": "2024-01-18",
+    "vigencia_hasta": ""
+  },
   {
     "id": "FCA",
     "texto": "FRANCO TRANSPORTISTA (LUGAR DESIGNADO).",

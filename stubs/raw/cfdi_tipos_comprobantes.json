@@ -13,7 +13,13 @@
     "vigencia_desde": "2017-07-29",
     "vigencia_hasta": ""
   },
-  { "id": "T", "texto": "Traslado", "valor_maximo": "0", "vigencia_desde": "2017-01-01", "vigencia_hasta": "" },
+  {
+    "id": "T",
+    "texto": "Traslado",
+    "valor_maximo": "0",
+    "vigencia_desde": "2017-01-01",
+    "vigencia_hasta": ""
+  },
   {
     "id": "N",
     "texto": "Nómina",
