@@ -1,60 +1,9 @@
 {
   "name": "@nodecfdi/sat-micro-catalogs",
-  "description": "Micro Catálogos CFDI del SAT",
-  "version": "1.0.2",
   "type": "module",
-  "module": "./build/helpers.js",
-  "types": "./build/helpers.d.ts",
-  "files": [
-    "build"
-  ],
-  "exports": {
-    ".": {
-      "import": {
-        "types": "./build/helpers.d.ts",
-        "default": "./build/helpers.js"
-      }
-    },
-    "./types": {
-      "import": {
-        "types": "./build/types.d.ts",
-        "default": "./build/types.js"
-      }
-    },
-    "./raw/*": "./build/raw/*.json"
-  },
-  "scripts": {
-    "prepare": "is-in-ci || husky",
-    "typecheck": "tsc --noEmit",
-    "test": "vitest",
-    "test:run": "vitest run",
-    "test:coverage": "vitest run --coverage",
-    "tool:code": "pnpm run typecheck",
-    "tool:build": "pnpm run tool:code && pnpm run test:run",
-    "gen:catalogs": "node ace sat-catalogs:populate",
-    "changelog": "auto-changelog -p",
-    "build": "pnpm run typecheck && tsdown",
-    "release": "release-it"
-  },
-  "devDependencies": {
-    "@adonisjs/ace": "^13.4.0",
-    "@commitlint/cli": "^21.2.4",
-    "@commitlint/config-conventional": "^21.2.4",
-    "@poppinss/utils": "^7.1.2",
-    "@types/better-sqlite3": "^9.6.0",
-    "@types/node": "^22.20.5",
-    "@vitest/coverage-istanbul": "^5.1.0",
-    "auto-changelog": "^2.7.0",
-    "better-sqlite3": "^12.11.1",
-    "del": "^9.0.1",
-    "husky": "^9.1.7",
-    "is-in-ci": "^2.0.0",
-    "release-it": "^21.1.2",
-    "ts-node-maintained": "^10.9.6",
-    "tsdown": "^0.23.7",
-    "typescript": "^6.0.3",
-    "vitest": "^5.1.0"
-  },
+  "version": "1.0.2",
+  "packageManager": "pnpm@12.21.0",
+  "description": "Micro Catálogos CFDI del SAT",
   "author": "Fernando Isidro <luffynando@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/nodecfdi/sat-micro-catalogs",
@@ -71,45 +20,112 @@
     "cfdi",
     "catalogos"
   ],
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/helpers.d.ts",
+        "default": "./dist/helpers.js"
+      }
+    },
+    "./types": {
+      "import": {
+        "types": "./dist/types.d.ts",
+        "default": "./dist/types.js"
+      }
+    },
+    "./raw/*": "./dist/raw/*.json"
+  },
+  "module": "./dist/helpers.js",
+  "types": "./dist/helpers.d.ts",
+  "files": [
+    "dist"
+  ],
   "engines": {
     "node": "^22.13.0 || ^24 || ^26"
   },
-  "browserslist": [
-    "defaults",
-    "not IE 11"
-  ],
-  "packageManager": "pnpm@12.21.0",
+  "scripts": {
+    "prepare": "is-in-ci || husky",
+    "changelog": "auto-changelog -u -p",
+    "commitlint": "commitlint --edit",
+    "gen:catalogs": "node ace sat-catalogs:populate",
+    "lint": "eslint . --fix",
+    "lint:check": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "tool:code": "pnpm run lint:check && pnpm run typecheck",
+    "tool:build": "pnpm run tool:code && pnpm run test:run",
+    "build": "tsdown",
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "@adonisjs/ace": "^13.4.0",
+    "@commitlint/cli": "^21.2.4",
+    "@commitlint/config-conventional": "^21.2.4",
+    "@eienjs/eslint-config": "^2.3.2",
+    "@poppinss/utils": "^7.1.2",
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^22.20.5",
+    "@vitest/coverage-istanbul": "^5.1.0",
+    "auto-changelog": "^2.7.0",
+    "better-sqlite3": "^12.11.1",
+    "del": "^9.0.1",
+    "eslint": "^10.14.0",
+    "eslint-plugin-erasable-syntax-only": "^0.7.2",
+    "husky": "^9.1.7",
+    "is-in-ci": "^2.0.0",
+    "release-it": "^21.1.2",
+    "ts-node-maintained": "^10.9.6",
+    "tsdown": "^0.23.7",
+    "typescript": "^6.0.3",
+    "vitest": "^5.1.0"
+  },
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
     ]
   },
+  "browserslist": [
+    "defaults",
+    "not IE 11"
+  ],
   "publishConfig": {
     "access": "public",
     "tag": "latest"
   },
   "auto-changelog": {
     "template": "keepachangelog",
-    "hideCredit": true
+    "hideCredit": true,
+    "commitLimit": false
   },
   "release-it": {
     "git": {
-      "requireBranch": "main",
-      "commitMessage": "chore(release): :tada: ${version}",
-      "tagName": "v${version}"
+      "commit": true,
+      "tag": true,
+      "push": true,
+      "requireCleanWorkingDir": true,
+      "commitMessage": "chore(release): :tada: v${version}",
+      "tagAnnotation": "chore(release): :tada: v${version}"
     },
     "github": {
       "release": true,
-      "web": true
+      "web": true,
+      "releaseName": "Release v${version}"
     },
     "npm": {
+      "publish": true,
       "publishPackageManager": "pnpm",
       "publishArgs": [
         "--no-git-checks"
       ]
     },
     "hooks": {
-      "before:init": "pnpm run test:run",
+      "before:init": [
+        "pnpm run lint:check",
+        "pnpm run typecheck",
+        "pnpm test:run"
+      ],
       "after:bump": [
         "pnpm run build",
         "pnpm run changelog"

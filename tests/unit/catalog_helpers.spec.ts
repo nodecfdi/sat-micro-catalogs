@@ -1,3 +1,4 @@
+import { describe, expect, test } from 'vitest';
 import { wrapCatalog } from '../../src/helpers.js';
 import cfdi40UsosCfdi from '../../stubs/raw/cfdi_40_usos_cfdi.json' with { type: 'json' };
 

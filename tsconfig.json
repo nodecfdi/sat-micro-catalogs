@@ -1,14 +1,14 @@
 {
   "compilerOptions": {
-    "target": "ES2022",
-    "module": "NodeNext",
-    "strict": true,
-    "skipLibCheck": true,
-    "verbatimModuleSyntax": true,
+    "target": "ESNext",
     "rootDir": "./",
-    "outDir": "./build",
-    "types": ["vitest/globals", "node"],
-    "resolveJsonModule": true
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "types": ["node"],
+    "strict": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "skipLibCheck": true
   },
-  "exclude": ["node_modules", "build", "coverage"]
+  "include": ["**/*.ts"]
 }
