@@ -10,7 +10,7 @@ shamefullyHoist: true
 shellEmulator: true
 
 allowBuilds:
-  better-sqlite3: true
+  esbuild: true
 
 permissions:
   tsdown:

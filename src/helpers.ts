@@ -1,4 +1,4 @@
-import { type SatCatalogItem } from './types.js';
+import type { SatCatalogItem } from './types.js';
 
 export class SatCatalog<T extends { id: string; texto: string } = { id: string; texto: string }> extends Array<
   SatCatalogItem<T>

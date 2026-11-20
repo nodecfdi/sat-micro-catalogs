@@ -21,21 +21,10 @@
     "catalogos"
   ],
   "exports": {
-    ".": {
-      "import": {
-        "types": "./dist/helpers.d.ts",
-        "default": "./dist/helpers.js"
-      }
-    },
-    "./types": {
-      "import": {
-        "types": "./dist/types.d.ts",
-        "default": "./dist/types.js"
-      }
-    },
-    "./raw/*": "./dist/raw/*.json"
+    "./helpers": "./dist/helpers.js",
+    "./types": "./dist/types.js",
+    "./package.json": "./package.json"
   },
-  "module": "./dist/helpers.js",
   "types": "./dist/helpers.d.ts",
   "files": [
     "dist"
@@ -47,7 +36,7 @@
     "prepare": "is-in-ci || husky",
     "changelog": "auto-changelog -u -p",
     "commitlint": "commitlint --edit",
-    "gen:catalogs": "node ace sat-catalogs:populate",
+    "gen:catalogs": "tsx scripts/populate_sat_catalogs.ts",
     "lint": "eslint . --fix",
     "lint:check": "eslint .",
     "typecheck": "tsc --noEmit",
@@ -60,24 +49,19 @@
     "release": "release-it"
   },
   "devDependencies": {
-    "@adonisjs/ace": "^13.4.0",
     "@commitlint/cli": "^21.2.4",
     "@commitlint/config-conventional": "^21.2.4",
     "@eienjs/eslint-config": "^2.3.2",
-    "@poppinss/utils": "^7.1.2",
-    "@types/better-sqlite3": "^9.6.0",
     "@types/node": "^22.20.5",
     "@vitest/coverage-istanbul": "^5.1.0",
     "auto-changelog": "^2.7.0",
-    "better-sqlite3": "^12.11.1",
-    "del": "^9.0.1",
     "eslint": "^10.14.0",
     "eslint-plugin-erasable-syntax-only": "^0.7.2",
     "husky": "^9.1.7",
     "is-in-ci": "^2.0.0",
     "release-it": "^21.1.2",
-    "ts-node-maintained": "^10.9.6",
     "tsdown": "^0.23.7",
+    "tsx": "^4.23.15",
     "typescript": "^6.0.3",
     "vitest": "^5.1.0"
   },
