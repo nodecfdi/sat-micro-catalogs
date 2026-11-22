@@ -21,11 +21,28 @@
     "catalogos"
   ],
   "exports": {
+    ".": "./dist/index.js",
+    "./cce-11": "./dist/domains/cce-11.js",
+    "./cce-20": "./dist/domains/cce-20.js",
+    "./ccp-20": "./dist/domains/ccp-20.js",
+    "./ccp-30": "./dist/domains/ccp-30.js",
+    "./ccp-31": "./dist/domains/ccp-31.js",
+    "./cfdi-33": "./dist/domains/cfdi-33.js",
+    "./cfdi-40": "./dist/domains/cfdi-40.js",
+    "./hyp-10": "./dist/domains/hyp-10.js",
+    "./nomina": "./dist/domains/nomina.js",
+    "./pagos": "./dist/domains/pagos.js",
+    "./ret-20": "./dist/domains/ret-20.js",
     "./helpers": "./dist/helpers.js",
     "./types": "./dist/types.js",
+    "./catalogs/*": {
+      "types": "./dist/catalogs/*.d.ts",
+      "default": "./dist/catalogs/*.js"
+    },
+    "./iife/*": "./dist/iife/*.iife.js",
     "./package.json": "./package.json"
   },
-  "types": "./dist/helpers.d.ts",
+  "types": "./dist/index.d.ts",
   "files": [
     "dist"
   ],
