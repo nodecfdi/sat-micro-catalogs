@@ -52,12 +52,24 @@ async function runAction(label: string, task: () => Promise<void>): Promise<void
 }
 
 export function toSnakeCase(value: string): string {
-  return value
+  const normalized = value
     .replaceAll(/([\da-z])([A-Z])/g, '$1_$2')
-    .replaceAll(/([A-Z]+)([A-Z][a-z])/g, '$1_$2')
+    .replaceAll(/([A-Z])([A-Z][a-z])/g, '$1_$2')
     .replaceAll(/[^\da-z]+/gi, '_')
-    .replaceAll(/^_+|_+$/g, '')
     .toLowerCase();
+
+  let start = 0;
+  let end = normalized.length;
+
+  while (start < end && normalized[start] === '_') {
+    start += 1;
+  }
+
+  while (end > start && normalized[end - 1] === '_') {
+    end -= 1;
+  }
+
+  return normalized.slice(start, end);
 }
 
 export function toCamelCase(snake: string): string {
