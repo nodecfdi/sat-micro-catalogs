@@ -65,6 +65,14 @@ describe('catalog helpers', () => {
     expect(catalog.filter((item) => item.id === 'C')).toEqual([source[2]]);
   });
 
+  test('should not print null text in labels and reject invalid dates', () => {
+    const catalog = createCatalog([{ id: 'X', texto: null }]);
+
+    expect(catalog.label('X')).toBe('X - X');
+    expect(catalog.options()[0]?.label).toBe('X - X');
+    expect(() => catalog.active(new Date('invalid'))).toThrow(RangeError);
+  });
+
   test('should work with generated CFDI 4.0 catalogs including monedas and paises', () => {
     expect(cfdi40UsosCfdi.label('G01')).toBe('G01 - Adquisición de mercancías.');
     expect(cfdi40UsosCfdi.text('G01')).toBe('Adquisición de mercancías.');

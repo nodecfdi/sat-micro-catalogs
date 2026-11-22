@@ -36,3 +36,6 @@ shrinkwrap.yaml
 .gemini
 .copilot
 .claude
+
+# Generator temp dir
+tmp

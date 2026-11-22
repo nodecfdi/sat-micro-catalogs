@@ -10,6 +10,10 @@ function toIsoDate(date: Date | string): string {
     return date.slice(0, 10);
   }
 
+  if (Number.isNaN(date.getTime())) {
+    throw new RangeError('Invalid date');
+  }
+
   const year = String(date.getUTCFullYear());
   const month = String(date.getUTCMonth() + 1).padStart(2, '0');
   const day = String(date.getUTCDate()).padStart(2, '0');
@@ -74,15 +78,8 @@ export class SatCatalog<T extends SatCatalogRecord = SatCatalogRecord> implement
 
   public label(key: string, separator = ' - ', fallback: string = key): string {
     const item = this.get(key);
-    if (!item) {
-      return fallback;
-    }
 
-    if (this.keyField === this.textField) {
-      return String(item[this.keyField] ?? fallback);
-    }
-
-    return `${String(item[this.keyField])}${separator}${String(item[this.textField])}`;
+    return item ? this.toOption(item, separator).label : fallback;
   }
 
   public filter(predicate: (item: T) => boolean): T[] {
@@ -109,19 +106,18 @@ export class SatCatalog<T extends SatCatalogRecord = SatCatalogRecord> implement
         continue;
       }
 
-      const value = String(item[this.keyField] ?? '');
-      const text = String(item[this.textField] ?? value);
-      const label = this.keyField === this.textField ? value : `${value}${separator}${text}`;
-
-      result.push({
-        value,
-        text,
-        label,
-        item,
-      });
+      result.push(this.toOption(item, separator));
     }
 
     return result;
+  }
+
+  private toOption(item: T, separator: string): SatCatalogOption<T> {
+    const value = String(item[this.keyField] ?? '');
+    const text = String(item[this.textField] ?? value);
+    const label = this.keyField === this.textField ? value : `${value}${separator}${text}`;
+
+    return { value, text, label, item };
   }
 
   private getIndex(): Map<string, T> {

@@ -448,25 +448,6 @@ export function* decompressBzip2Chunks(input: Uint8Array): Generator<Uint8Array>
   }
 }
 
-export function decompressBzip2(input: Uint8Array): Uint8Array {
-  const chunks: Uint8Array[] = [];
-  let totalLength = 0;
-
-  for (const chunk of decompressBzip2Chunks(input)) {
-    chunks.push(chunk);
-    totalLength += chunk.length;
-  }
-
-  const result = new Uint8Array(totalLength);
-  let offset = 0;
-  for (const chunk of chunks) {
-    result.set(chunk, offset);
-    offset += chunk.length;
-  }
-
-  return result;
-}
-
 export async function decompressBzip2File(inputPath: string, outputPath: string): Promise<void> {
   const compressed = await readFile(inputPath);
   const handle = await open(outputPath, 'w');
