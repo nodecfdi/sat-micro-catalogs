@@ -132,5 +132,10 @@
         "pnpm run changelog"
       ]
     }
+  },
+  "nodecfdi": {
+    "title": "SAT Micro Catalogs",
+    "icon": "i-tabler-book-2",
+    "category": "sat"
   }
 }

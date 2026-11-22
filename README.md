@@ -12,7 +12,7 @@
 [![Violations][badge-violations]][violations]
 [![Total Downloads][badge-downloads]][downloads]
 
-> Library to work with Mexican Digital SAT Catalogs <= 100 Rows.
+> Library to work with Mexican Digital SAT Catalogs <= 250 Rows (ESM & Browser IIFE).
 
 :us: The documentation of this project is in spanish as this is the natural language for intended audience.
 
@@ -20,7 +20,51 @@
 
 ## Acerca de `@nodecfdi/sat-micro-catalogs`
 
-Librería que expone los catalogos de SAT en formato json, solo aquellos que tienen menos de 100 filas. Además contiene helpers para trabajar con estos archivos y sus valores.
+Librería que expone los catálogos pequeños del SAT (hasta 250 filas, 134 catálogos en total) como módulos TypeScript/ESM tipados y bundles IIFE para navegador, con búsquedas `O(1)` y soporte de vigencias para impresión de PDFs y formularios `<select>` sin necesidad de cargar SQLite.
+
+## Inicio rápido
+
+### Instalación
+
+```bash
+# pnpm
+pnpm add @nodecfdi/sat-micro-catalogs
+
+# npm
+npm install @nodecfdi/sat-micro-catalogs
+
+# yarn
+yarn add @nodecfdi/sat-micro-catalogs
+
+# bun
+bun add @nodecfdi/sat-micro-catalogs
+```
+
+### Uso en Node.js / Bundlers (ESM)
+
+```ts
+import { cfdi40Monedas, cfdi40UsosCfdi } from '@nodecfdi/sat-micro-catalogs/cfdi-40';
+
+// Para impresión de PDFs (búsqueda O(1) con fallback seguro)
+cfdi40UsosCfdi.label('G01'); // "G01 - Adquisición de mercancías."
+cfdi40Monedas.text('MXN'); // "Peso Mexicano"
+
+// Para poblar un <select> solo con claves vigentes y aplicables a persona física
+const opciones = cfdi40UsosCfdi.options({
+  activeOn: new Date(),
+  filter: (item) => item.aplica_fisica === 1,
+});
+```
+
+### Uso en el navegador (IIFE)
+
+```html
+<script src="https://unpkg.com/@nodecfdi/sat-micro-catalogs/dist/iife/cfdi-40.iife.js"></script>
+<script>
+  const { cfdi40UsosCfdi } = window.ncCatalogCfdi40;
+  console.log(cfdi40UsosCfdi.label('G03')); // "G03 - Gastos en general."
+</script>
+```
 
 ## Documentación
 
